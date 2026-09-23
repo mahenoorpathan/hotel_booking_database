@@ -82,4 +82,4 @@ users 1───* audit_log
 > All data in this project is fictional.
 
 ---
-👩‍💻 **Mahenoor (Mahi) Pathan**. [LinkedIn](https://www.linkedin.com/in/mahenoor-pathan/)
+👩‍💻 **Mahenoor (Mahi) Pathan**.    - LinkedIn: [linkedin.com/in/mahenoorpathan](https://www.linkedin.com/in/mahenoorpathan)
